@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.efea8638.css",
-    "main.js": "./static/js/main.9388aa2f.js",
+    "main.js": "./static/js/main.3a0c757d.js",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
     "static/media/A New Approach To Growing Our Culture.jpg": "./static/media/A New Approach To Growing Our Culture.ec662e745e6a4f954c19.jpg",
     "static/media/img-2.jpg": "./static/media/img-2.bb238fc1bea8ae2474d2.jpg",
@@ -31,10 +31,10 @@
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "index.html": "./index.html",
     "main.efea8638.css.map": "./static/css/main.efea8638.css.map",
-    "main.9388aa2f.js.map": "./static/js/main.9388aa2f.js.map"
+    "main.3a0c757d.js.map": "./static/js/main.3a0c757d.js.map"
   },
   "entrypoints": [
     "static/css/main.efea8638.css",
-    "static/js/main.9388aa2f.js"
+    "static/js/main.3a0c757d.js"
   ]
 }
