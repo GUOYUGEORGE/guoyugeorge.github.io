@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.efea8638.css",
-    "main.js": "./static/js/main.3a0c757d.js",
+    "main.css": "./static/css/main.6aef8dfb.css",
+    "main.js": "./static/js/main.5634157c.js",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
+    "static/media/maori-carving-2-1423369.jpg": "./static/media/maori-carving-2-1423369.77688c0c05fd4864a493.jpg",
     "static/media/A New Approach To Growing Our Culture.jpg": "./static/media/A New Approach To Growing Our Culture.ec662e745e6a4f954c19.jpg",
     "static/media/img-2.jpg": "./static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/Progression of Wai 262.jpg": "./static/media/Progression of Wai 262.cafc2531c7f77b31e260.jpg",
+    "static/media/fence-painted-maori-style-1225405.jpg": "./static/media/fence-painted-maori-style-1225405.dddf07d5b30f67b76d61.jpg",
+    "static/media/kate-branch-JMTJVOh1RxE-unsplash.jpg": "./static/media/kate-branch-JMTJVOh1RxE-unsplash.576092c26655e2abfd63.jpg",
+    "static/media/bryn-parish-IDXsYT5xVEE-unsplash.jpg": "./static/media/bryn-parish-IDXsYT5xVEE-unsplash.74ac10204b7b7cb25725.jpg",
     "static/media/duskfall-crew-vIQfQjrovW8-unsplash.jpg": "./static/media/duskfall-crew-vIQfQjrovW8-unsplash.87ec02aeb5a87e14dccf.jpg",
     "static/media/Original Intentions.jpg": "./static/media/Original Intentions.6125d4c303d5fb518d32.jpg",
     "static/media/meg-jerrard-u7lgJ8qrdAM-unsplash.jpg": "./static/media/meg-jerrard-u7lgJ8qrdAM-unsplash.6901f959dcb98fa67ff7.jpg",
+    "static/media/maori-pattern-1189098.jpg": "./static/media/maori-pattern-1189098.95e6a2e289232250829f.jpg",
     "static/media/What is Wai 262.jpg": "./static/media/What is Wai 262.bd0210710f73d1618df7.jpg",
     "static/media/What is Te Pai Tawhiti.jpg": "./static/media/What is Te Pai Tawhiti.d3c6e7e2b8a33e4ba34a.jpg",
     "static/media/What Is Te Pai Tawhiti - Chart.png": "./static/media/What Is Te Pai Tawhiti - Chart.2bd6e720378f3335d931.png",
     "static/media/img-3.jpg": "./static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/maori-flax-3-1515872.jpg": "./static/media/maori-flax-3-1515872.0a3e4ad1f9c3eacb2448.jpg",
     "static/media/1 About The Trust.jpg": "./static/media/1 About The Trust.b2c9430504e11a889c28.jpg",
     "static/media/3 Learn About Te Pa Whati.jpg": "./static/media/3 Learn About Te Pa Whati.2c8b907a36e12f3e1380.jpg",
     "static/media/Te Tiriti O Waitangi - Portion.jpg": "./static/media/Te Tiriti O Waitangi - Portion.6714468027f8fed0db71.jpg",
@@ -30,11 +36,11 @@
     "static/media/hero-42171.jpg": "./static/media/hero-42171.a2b77a904c48df29fb6d.jpg",
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "index.html": "./index.html",
-    "main.efea8638.css.map": "./static/css/main.efea8638.css.map",
-    "main.3a0c757d.js.map": "./static/js/main.3a0c757d.js.map"
+    "main.6aef8dfb.css.map": "./static/css/main.6aef8dfb.css.map",
+    "main.5634157c.js.map": "./static/js/main.5634157c.js.map"
   },
   "entrypoints": [
-    "static/css/main.efea8638.css",
-    "static/js/main.3a0c757d.js"
+    "static/css/main.6aef8dfb.css",
+    "static/js/main.5634157c.js"
   ]
 }
