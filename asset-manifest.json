@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.78823a1e.css",
-    "main.js": "./static/js/main.9d530899.js",
+    "main.css": "./static/css/main.bac7fbc5.css",
+    "main.js": "./static/js/main.defc61bf.js",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
     "static/media/Dual Side T-shirt Artwork Mockup.png": "./static/media/Dual Side T-shirt Artwork Mockup.b37b8b318a822b7f1b33.png",
     "static/media/maori-carving-2-1423369.jpg": "./static/media/maori-carving-2-1423369.77688c0c05fd4864a493.jpg",
@@ -21,6 +21,7 @@
     "static/media/What Is Te Pai Tawhiti - Chart.png": "./static/media/What Is Te Pai Tawhiti - Chart.2bd6e720378f3335d931.png",
     "static/media/img-3.jpg": "./static/media/img-3.6d683c0ee6824af7961a.jpg",
     "static/media/maori-flax-3-1515872.jpg": "./static/media/maori-flax-3-1515872.0a3e4ad1f9c3eacb2448.jpg",
+    "static/media/5 Contemporary WAI 262.jpg": "./static/media/5 Contemporary WAI 262.f307f8f388a9f63ed6e5.jpg",
     "static/media/1 About The Trust.jpg": "./static/media/1 About The Trust.b2c9430504e11a889c28.jpg",
     "static/media/2 - Pohutakawa.jpg": "./static/media/2 - Pohutakawa.9a6705b0294f85c4ab00.jpg",
     "static/media/3 Learn About Te Pa Whati.jpg": "./static/media/3 Learn About Te Pa Whati.2c8b907a36e12f3e1380.jpg",
@@ -55,6 +56,7 @@
     "static/media/John Hippolite.jpg": "./static/media/John Hippolite.315a231ea60fe8a6f7c2.jpg",
     "static/media/Expected Outcomes.jpg": "./static/media/Expected Outcomes.7b2a5ae7e6335fde404a.jpg",
     "static/media/4OO9XEI_copyright_image_86420.jpg": "./static/media/4OO9XEI_copyright_image_86420.97582d9e5ff55bd182d6.jpg",
+    "static/media/3b77fcb9-2686-4195-9c45-939a0b630768.jpeg": "./static/media/3b77fcb9-2686-4195-9c45-939a0b630768.ee609491e916e5e6521d.jpeg",
     "static/media/Dr_Moana_Jackson_h0ag.2e16d0ba.fill-880x586.format-webp.jpg": "./static/media/Dr_Moana_Jackson_h0ag.2e16d0ba.fill-880x586.format-webp.b1b14c9161c788d4c0f0.jpg",
     "static/media/Tamaki Witana.jpg": "./static/media/Tamaki Witana.cd37b78bb820bf95484c.jpg",
     "static/media/Tama Poata.jpg": "./static/media/Tama Poata.9717bdb5b4f2aacb3969.jpg",
@@ -66,11 +68,11 @@
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "static/media/payment.png": "./static/media/payment.b4523ef470fab0966fcf.png",
     "index.html": "./index.html",
-    "main.78823a1e.css.map": "./static/css/main.78823a1e.css.map",
-    "main.9d530899.js.map": "./static/js/main.9d530899.js.map"
+    "main.bac7fbc5.css.map": "./static/css/main.bac7fbc5.css.map",
+    "main.defc61bf.js.map": "./static/js/main.defc61bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.78823a1e.css",
-    "static/js/main.9d530899.js"
+    "static/css/main.bac7fbc5.css",
+    "static/js/main.defc61bf.js"
   ]
 }
