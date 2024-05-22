@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.bac7fbc5.css",
-    "main.js": "./static/js/main.defc61bf.js",
+    "main.css": "./static/css/main.17a0f2c1.css",
+    "main.js": "./static/js/main.ac4d3039.js",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
+    "static/media/Dual Side T-shirt Artwork Mockup - Tiaki Taonga Trust - WHITE.png": "./static/media/Dual Side T-shirt Artwork Mockup - Tiaki Taonga Trust - WHITE.e447cc675c8eb8babfbf.png",
     "static/media/Dual Side T-shirt Artwork Mockup.png": "./static/media/Dual Side T-shirt Artwork Mockup.b37b8b318a822b7f1b33.png",
     "static/media/maori-carving-2-1423369.jpg": "./static/media/maori-carving-2-1423369.77688c0c05fd4864a493.jpg",
     "static/media/A New Approach To Growing Our Culture.jpg": "./static/media/A New Approach To Growing Our Culture.ec662e745e6a4f954c19.jpg",
@@ -68,11 +69,11 @@
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "static/media/payment.png": "./static/media/payment.b4523ef470fab0966fcf.png",
     "index.html": "./index.html",
-    "main.bac7fbc5.css.map": "./static/css/main.bac7fbc5.css.map",
-    "main.defc61bf.js.map": "./static/js/main.defc61bf.js.map"
+    "main.17a0f2c1.css.map": "./static/css/main.17a0f2c1.css.map",
+    "main.ac4d3039.js.map": "./static/js/main.ac4d3039.js.map"
   },
   "entrypoints": [
-    "static/css/main.bac7fbc5.css",
-    "static/js/main.defc61bf.js"
+    "static/css/main.17a0f2c1.css",
+    "static/js/main.ac4d3039.js"
   ]
 }
