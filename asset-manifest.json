@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.5f52a3c5.css",
-    "main.js": "./static/js/main.36158148.js",
+    "main.css": "./static/css/main.3300b1d6.css",
+    "main.js": "./static/js/main.a67d0642.js",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
     "static/media/Dual Side T-shirt Artwork Mockup.png": "./static/media/Dual Side T-shirt Artwork Mockup.b37b8b318a822b7f1b33.png",
     "static/media/maori-carving-2-1423369.jpg": "./static/media/maori-carving-2-1423369.77688c0c05fd4864a493.jpg",
@@ -66,11 +66,11 @@
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "static/media/payment.png": "./static/media/payment.b4523ef470fab0966fcf.png",
     "index.html": "./index.html",
-    "main.5f52a3c5.css.map": "./static/css/main.5f52a3c5.css.map",
-    "main.36158148.js.map": "./static/js/main.36158148.js.map"
+    "main.3300b1d6.css.map": "./static/css/main.3300b1d6.css.map",
+    "main.a67d0642.js.map": "./static/js/main.a67d0642.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f52a3c5.css",
-    "static/js/main.36158148.js"
+    "static/css/main.3300b1d6.css",
+    "static/js/main.a67d0642.js"
   ]
 }
