@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.aa2f6e0d.css",
-    "main.js": "./static/js/main.233b08a3.js",
+    "main.css": "./static/css/main.45f09c98.css",
+    "main.js": "./static/js/main.c997be35.js",
+    "static/media/newzealandflag.jpg": "./static/media/newzealandflag.ff044c78160fe3b85bfa.jpg",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
     "static/media/Dual Side T-shirt Artwork Mockup.png": "./static/media/Dual Side T-shirt Artwork Mockup.b37b8b318a822b7f1b33.png",
     "static/media/maori-carving-2-1423369.jpg": "./static/media/maori-carving-2-1423369.77688c0c05fd4864a493.jpg",
@@ -31,8 +32,8 @@
     "static/media/Te Witi McMath Joined By Others In A Greenery.jpg": "./static/media/Te Witi McMath Joined By Others In A Greenery.03d62a259f86d1f8d59d.jpg",
     "static/media/Updated Portrait of Murray - PREFERRED.jpg": "./static/media/Updated Portrait of Murray - PREFERRED.5c21f48386506e794416.jpg",
     "static/media/hippolite with other people on an outdoors setiting.jpg": "./static/media/hippolite with other people on an outdoors setiting.7c09cc48d3ecd614f945.jpg",
-    "static/media/Dual Side T-shirt Artwork Mockup - Tiaki Taonga Trust - WHITE.png": "./static/media/Dual Side T-shirt Artwork Mockup - Tiaki Taonga Trust - WHITE.239f016e1ffec26d7f47.png",
     "static/media/Te Witi McMath Joined By Others During Treaty Tribes Coalition.jpg": "./static/media/Te Witi McMath Joined By Others During Treaty Tribes Coalition.5a472c53a7ec6450ff9c.jpg",
+    "static/media/Dual Side T-shirt Artwork Mockup - Tiaki Taonga Trust - WHITE.png": "./static/media/Dual Side T-shirt Artwork Mockup - Tiaki Taonga Trust - WHITE.a1ed04ecbe45e434b435.png",
     "static/media/UPDATED Portrait of Hippolite - PREFERRED FOR USE.jpg": "./static/media/UPDATED Portrait of Hippolite - PREFERRED FOR USE.983a2c2bfe43ccef9aa5.jpg",
     "static/media/Landscape Photo within an office setting jpg.jpg": "./static/media/Landscape Photo within an office setting jpg.11cdd6bd018622622e1d.jpg",
     "static/media/murray joined by other individuals in a group photo.jpg": "./static/media/murray joined by other individuals in a group photo.7c7ec167904c43a111cc.jpg",
@@ -63,17 +64,16 @@
     "static/media/New_Zealand(location_map).svg": "./static/media/New_Zealand(location_map).5147fb155ed70709d9a3822fa206a990.svg",
     "static/media/1st Column Thumbail Image.jpg": "./static/media/1st Column Thumbail Image.fc5abc6c13b0b688d029.jpg",
     "static/media/Discovering-New-Zealands-Maori-Culture-_-Image-Via-Trafalgar-800x450.jpg": "./static/media/Discovering-New-Zealands-Maori-Culture-_-Image-Via-Trafalgar-800x450.334478a85ded355a25bd.jpg",
-    "static/media/newzealandflag.jpg": "./static/media/newzealandflag.c3b650520e6e28dd048c.jpg",
     "static/media/3rd Column Thumbail Image.jpg": "./static/media/3rd Column Thumbail Image.db823c86f8b37f966fc8.jpg",
     "static/media/hero-42171.jpg": "./static/media/hero-42171.a2b77a904c48df29fb6d.jpg",
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "static/media/payment.png": "./static/media/payment.b4523ef470fab0966fcf.png",
     "index.html": "./index.html",
-    "main.aa2f6e0d.css.map": "./static/css/main.aa2f6e0d.css.map",
-    "main.233b08a3.js.map": "./static/js/main.233b08a3.js.map"
+    "main.45f09c98.css.map": "./static/css/main.45f09c98.css.map",
+    "main.c997be35.js.map": "./static/js/main.c997be35.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa2f6e0d.css",
-    "static/js/main.233b08a3.js"
+    "static/css/main.45f09c98.css",
+    "static/js/main.c997be35.js"
   ]
 }
