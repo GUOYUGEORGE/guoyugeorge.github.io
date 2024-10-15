@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.45f09c98.css",
-    "main.js": "./static/js/main.c997be35.js",
+    "main.css": "./static/css/main.f2b3a143.css",
+    "main.js": "./static/js/main.d39d1c55.js",
     "static/media/newzealandflag.jpg": "./static/media/newzealandflag.ff044c78160fe3b85bfa.jpg",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
     "static/media/Dual Side T-shirt Artwork Mockup.png": "./static/media/Dual Side T-shirt Artwork Mockup.b37b8b318a822b7f1b33.png",
@@ -69,11 +69,11 @@
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "static/media/payment.png": "./static/media/payment.b4523ef470fab0966fcf.png",
     "index.html": "./index.html",
-    "main.45f09c98.css.map": "./static/css/main.45f09c98.css.map",
-    "main.c997be35.js.map": "./static/js/main.c997be35.js.map"
+    "main.f2b3a143.css.map": "./static/css/main.f2b3a143.css.map",
+    "main.d39d1c55.js.map": "./static/js/main.d39d1c55.js.map"
   },
   "entrypoints": [
-    "static/css/main.45f09c98.css",
-    "static/js/main.c997be35.js"
+    "static/css/main.f2b3a143.css",
+    "static/js/main.d39d1c55.js"
   ]
 }
