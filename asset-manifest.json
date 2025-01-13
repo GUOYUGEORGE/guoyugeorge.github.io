@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.f2b3a143.css",
-    "main.js": "./static/js/main.d39d1c55.js",
+    "main.css": "./static/css/main.20fbb5c4.css",
+    "main.js": "./static/js/main.7e4f6602.js",
     "static/media/newzealandflag.jpg": "./static/media/newzealandflag.ff044c78160fe3b85bfa.jpg",
     "static/media/Maori Engagemen.jpg": "./static/media/Maori Engagemen.c6fae1748a579131ce2c.jpg",
     "static/media/Dual Side T-shirt Artwork Mockup.png": "./static/media/Dual Side T-shirt Artwork Mockup.b37b8b318a822b7f1b33.png",
     "static/media/maori-carving-2-1423369.jpg": "./static/media/maori-carving-2-1423369.77688c0c05fd4864a493.jpg",
+    "static/media/KoAtou .png": "./static/media/KoAtou .4228f5a6b2533d92879c.png",
     "static/media/A New Approach To Growing Our Culture.jpg": "./static/media/A New Approach To Growing Our Culture.ec662e745e6a4f954c19.jpg",
     "static/media/andy-bridge-ZwN8fS_slIY-unsplash.jpg": "./static/media/andy-bridge-ZwN8fS_slIY-unsplash.bf8696ea3c2a0711cc01.jpg",
     "static/media/img-2.jpg": "./static/media/img-2.bb238fc1bea8ae2474d2.jpg",
@@ -22,6 +23,7 @@
     "static/media/What is Te Pai Tawhiti.jpg": "./static/media/What is Te Pai Tawhiti.d3c6e7e2b8a33e4ba34a.jpg",
     "static/media/What Is Te Pai Tawhiti - Chart.png": "./static/media/What Is Te Pai Tawhiti - Chart.2bd6e720378f3335d931.png",
     "static/media/img-3.jpg": "./static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/legalstatus.png": "./static/media/legalstatus.1869d872e5f7b3c65a9f.png",
     "static/media/maori-flax-3-1515872.jpg": "./static/media/maori-flax-3-1515872.0a3e4ad1f9c3eacb2448.jpg",
     "static/media/5 Contemporary WAI 262.jpg": "./static/media/5 Contemporary WAI 262.f307f8f388a9f63ed6e5.jpg",
     "static/media/1 About The Trust.jpg": "./static/media/1 About The Trust.b2c9430504e11a889c28.jpg",
@@ -69,11 +71,11 @@
     "static/media/2nd Column Thumbail Image.jpg": "./static/media/2nd Column Thumbail Image.c5499463c6d47d6e9a90.jpg",
     "static/media/payment.png": "./static/media/payment.b4523ef470fab0966fcf.png",
     "index.html": "./index.html",
-    "main.f2b3a143.css.map": "./static/css/main.f2b3a143.css.map",
-    "main.d39d1c55.js.map": "./static/js/main.d39d1c55.js.map"
+    "main.20fbb5c4.css.map": "./static/css/main.20fbb5c4.css.map",
+    "main.7e4f6602.js.map": "./static/js/main.7e4f6602.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2b3a143.css",
-    "static/js/main.d39d1c55.js"
+    "static/css/main.20fbb5c4.css",
+    "static/js/main.7e4f6602.js"
   ]
 }
